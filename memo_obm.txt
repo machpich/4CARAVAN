@@ -5,6 +5,11 @@
 中　4-7
 -------------
 Comment
+Rubyで任意の日付を出す
+https://www.rubylife.jp/ini/date_class/index5.html
+
+タイムゾーンを日本にする
+https://qiita.com/norifumi-y@github/items/fbc89daa2206cd6f75d1
 
 2017-12-11月  ======================
 家の用事

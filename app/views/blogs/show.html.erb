@@ -45,7 +45,7 @@
               <%= @blog.category %>
 		      	  </p>
 		          <p class="blog-date">
-              <%= @blog.created_at %>
+              <%= @blog.created_at.strftime("%B %d, %Y") %>
 				  </p>
 		        </div>
 

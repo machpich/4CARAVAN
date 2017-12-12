@@ -2,9 +2,14 @@
 予定：　4-8
 11:45-------------
 済　4-1 4-2 4-3 4-4 4-5 4-6
-中　
+中　4-7
 -------------
 Comment
+Rubyで任意の日付を出す
+https://www.rubylife.jp/ini/date_class/index5.html
+
+タイムゾーンを日本にする
+https://qiita.com/norifumi-y@github/items/fbc89daa2206cd6f75d1
 
 2017-12-11月  ======================
 家の用事
